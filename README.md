@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-Hi! I'm Yahya from Pakistan 🇵🇰, passionate about front-end web development. I'm currently learning HTML5, CSS3, and JavaScript to build amazing websites and create beautiful user interfaces. My goal is to master web development and bring creative ideas to life through code!
+Hi! I'm Yahya from Pakistan 🇵🇰, passionate about front-end web development. I'm currently learning HTML5, CSS3, and JavaScript to build amazing websites and create beautiful user interfaces. My goal is to master web development and bring creative ideas to life through code! and i dont like c++ syntax it looks awful!
 
 **Fun Fact:** I debug with console.log() and print()🤣
 
@@ -64,6 +64,7 @@ I'm on an exciting journey to become a skilled web developer! Here's what I'm fo
 **JavaScript** ███████████░░░ 70%
 **Python** ███████████████ 95%
 **C++** ████████████░░ 80%
+**Lua* *████░░░░░░░░░░ 30%
 
 </div>
 
