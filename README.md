@@ -2,7 +2,7 @@
   
 # 👨‍💻 Yahya
 
-### Web Developer | Pakistan 🇵🇰
+### Web Developer | python developer | Pakistan 🇵🇰
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Building+the+Web%2C+One+Line+at+a+Time;Learning+%7C+Creating+%7C+Growing)](https://git.io/typing-svg)
 
@@ -14,7 +14,7 @@
 
 Hi! I'm Yahya from Pakistan 🇵🇰, passionate about front-end web development. I'm currently learning HTML5, CSS3, and JavaScript to build amazing websites and create beautiful user interfaces. My goal is to master web development and bring creative ideas to life through code!
 
-**Fun Fact:** I debug with console.log()🤣
+**Fun Fact:** I debug with console.log() and print()🤣
 
 ---
 
@@ -62,6 +62,8 @@ I'm on an exciting journey to become a skilled web developer! Here's what I'm fo
 **HTML** ████████████░░ 80%  
 **CSS** ███░░░░░░░░░░░ 20%  
 **JavaScript** ███████████░░░ 70%
+**Python** ███████████████ 95%
+**C++** ████████████░░ 80%
 
 </div>
 
