@@ -40,19 +40,6 @@ I'm on an exciting journey to become a skilled web developer! Here's what I'm fo
 - **CSS** - Styling and making websites beautiful
 - **JavaScript** - Adding interactivity and functionality
 
-### My Progress:
-
-<div align="center">
-
-**HTML** ████████████░░ 80%  
-**CSS** ███░░░░░░░░░░░ 20%  
-**JavaScript** ███████████░░░ 70%
-   **Python** ███████████████ 95%
-   **C++** ████████████░░ 80%
-   **Lua* *████░░░░░░░░░░ 30%
-
-</div>
-
 ---
 
 ## 💡 Random Dev Quote
